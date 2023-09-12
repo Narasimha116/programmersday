@@ -1,0 +1,59 @@
+#id_1{
+	text-align: center;
+}
+#col_1{
+	box-shadow: 0 4px 10px rgba(0,0,0,0.16), 0 4px 10px rgba(0,0,0,0.23);
+	background-color: #FFFFFF;
+}
+#span_1{
+	font-size: 20px;
+}
+#span_2{
+	font-size: 20px;
+}
+#btn{
+	width: 30%;
+	background-color: #793FDF;
+	border-color: #793FDF;
+}
+#btn_1{
+	width: 30%;
+	border-color: #793FDF;
+	color: #793FDF;
+}
+#btn_1:hover{
+	background-color: #793FDF;
+	color: #FFFFFF;
+}
+#col_2{
+	text-align: center;
+}
+#span_3{
+	font-size: 20px;
+	color: #FFFFFF;
+}
+#head_1{
+	color: #FFFFFF;
+}
+input[type="text"]{
+	width: 90%;
+	height: 96%;
+	border-color: transparent;
+	border-radius: 5px;
+}
+#btn_2{
+	color: #FFFFFF;
+	width: 80%;
+	border-color: #FFFFFF;
+	font-size: 18px;
+}
+#btn_2:hover{
+	background-color: #FFFFFF;
+	color: #000000;
+}
+#caseimg{
+	height: 100%;
+}
+.img-fluid{
+	width: 100%;
+}
